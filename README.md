@@ -58,11 +58,18 @@ ii)FULL SUBTRACTOR
 
 <img width="416" alt="Screenshot 2024-11-29 at 7 10 25 PM" src="https://github.com/user-attachments/assets/52d4407d-7688-4264-b141-475bc3d56fa3">
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: V.Patrick Alex Emmanuel
+RegisterNumber: 24900019
 */
 
 **RTL Schematic**
+
+FULL ADDER
+
 <img width="1470" alt="Screenshot 2024-11-29 at 7 20 00 PM" src="https://github.com/user-attachments/assets/cf94ce51-daf9-4af6-9ec2-12e1169b4c08">
+
+FULL SUBTRACTOR
+
 <img width="1458" alt="Screenshot 2024-11-29 at 7 01 43 PM" src="https://github.com/user-attachments/assets/7e654765-a97e-4c98-881a-9d9891e22edc">
 
 **Output Timing Waveform**

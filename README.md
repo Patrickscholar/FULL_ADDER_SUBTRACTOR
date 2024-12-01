@@ -86,7 +86,7 @@ Developed by: V.Patrick Alex Emmanuel
 RegisterNumber: 24900019
 
 */
-
+```
 **RTL Schematic**
 
 FULL ADDER

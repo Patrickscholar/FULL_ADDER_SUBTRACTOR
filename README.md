@@ -52,14 +52,39 @@ Write the detailed procedure here
 **Program:**
 i)FULL ADDER
 
-<img width="352" alt="Screenshot 2024-11-29 at 7 18 28 PM" src="https://github.com/user-attachments/assets/d59a2b21-059e-4d99-a96e-2d90ce319d59">
+```
+module fa(a,b,cin,sum,carry);
+
+input a,b,cin;
+
+output sum,carry;
+
+assign sum=( (a ^ b)^cin);
+
+assign carry= ( (a & b)| ( cin &(a ^ b )));
+
+endmodule
 
 ii)FULL SUBTRACTOR
 
-<img width="416" alt="Screenshot 2024-11-29 at 7 10 25 PM" src="https://github.com/user-attachments/assets/52d4407d-7688-4264-b141-475bc3d56fa3">
+module fs(a,b,bin,difference,borrow);
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: V.Patrick Alex Emmanuel
+input a,b,bin;
+
+output difference,borrow;
+
+assign difference= ( (a ^ b)^bin);
+
+assign borrow= ( ( ~a & b)| ( bin & (~(a ^ b ))));
+
+endmodule
+
+/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
+
+Developed by: V.Patrick Alex Emmanuel
+
 RegisterNumber: 24900019
+
 */
 
 **RTL Schematic**

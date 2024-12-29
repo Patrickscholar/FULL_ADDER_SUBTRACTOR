@@ -110,12 +110,13 @@ FULL SUBTRACTOR
 
 FULL ADDER
 
-![Screenshot 2024-12-21 103815](https://github.com/user-attachments/assets/f9be0e26-a25f-4c9f-977c-3087cf1ed5b8)
+![Screenshot 2024-12-21 103804](https://github.com/user-attachments/assets/ae2b01ea-a5a3-4590-8bc6-5fa4c00cee6a)
+
 
 
 FULL SUBTRACTOR
 
-![Screenshot 2024-12-21 103804](https://github.com/user-attachments/assets/ae2b01ea-a5a3-4590-8bc6-5fa4c00cee6a)
+![Screenshot 2024-12-21 103815](https://github.com/user-attachments/assets/f9be0e26-a25f-4c9f-977c-3087cf1ed5b8)
 
 **Result:**
 

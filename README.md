@@ -110,12 +110,12 @@ FULL SUBTRACTOR
 
 FULL ADDER
 
-<img width="1465" alt="Screenshot 2024-11-29 at 11 18 15 PM" src="https://github.com/user-attachments/assets/232381c5-5ec5-4d3e-9ac5-8f8d6d8f61a0">
+![Screenshot 2024-12-21 103815](https://github.com/user-attachments/assets/f9be0e26-a25f-4c9f-977c-3087cf1ed5b8)
+
 
 FULL SUBTRACTOR
 
-<img width="1467" alt="Screenshot 2024-11-29 at 11 23 01 PM" src="https://github.com/user-attachments/assets/bb69b2c2-2dce-427e-95c6-26c9cd7c9130">
-
+![Screenshot 2024-12-21 103804](https://github.com/user-attachments/assets/ae2b01ea-a5a3-4590-8bc6-5fa4c00cee6a)
 
 **Result:**
 
